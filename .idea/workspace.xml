@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="910aeee8-f7d9-45d5-9130-823d09b0381d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jrq8JycXAquaruRAD4E6YDYSZT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="TestNG.AdminStoreAccountTest">
+    <configuration name="AdminLoginTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Java_TestFramework-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.backend.positive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages.backend.positive" />
+      <option name="MAIN_CLASS_NAME" value="pages.backend.positive.AdminLoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminLoginTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Java_TestFramework-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.backend.negative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages.backend.negative" />
+      <option name="MAIN_CLASS_NAME" value="pages.backend.negative.AdminLoginTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminStoreAccountTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Java_TestFramework-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.backend.positive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages.backend.positive" />
+      <option name="MAIN_CLASS_NAME" value="pages.backend.positive.AdminStoreAccountTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Java_TestFramework-main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pages.frontend.positive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pages.frontend.positive" />
+      <option name="MAIN_CLASS_NAME" value="pages.frontend.positive.UserRegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AdminStoreAccountTest" />
+        <item itemvalue="TestNG.UserRegistrationTest" />
+        <item itemvalue="TestNG.AdminLoginTests (1)" />
+        <item itemvalue="TestNG.AdminLoginTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="910aeee8-f7d9-45d5-9130-823d09b0381d" name="Changes" comment="" />
+      <created>1672846388754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672846388754</updated>
+    </task>
+    <servers />
+  </component>
+</project>
